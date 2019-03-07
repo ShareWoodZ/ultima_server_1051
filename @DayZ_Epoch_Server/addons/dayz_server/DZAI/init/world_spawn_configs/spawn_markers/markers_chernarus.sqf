@@ -1,0 +1,16 @@
+_this = createMarker ["DZAI_Aero_Krasnostav", [12159.1, 12642.9, 0.00146484]];
+_this setMarkerType "Empty";
+_this setMarkerBrush "Solid";
+_marker_1 = _this;
+_this = createMarker ["DZAI_Aero_Bolota", [4743.34, 2556.17, 0.00143909]];
+_this setMarkerType "Empty";
+_this setMarkerBrush "Solid";
+_marker_2 = _this;
+_this = createMarker ["DZAI_Aero_Bash", [4645.83, 10320.1, 0.00143433]];
+_this setMarkerType "Empty";
+_this setMarkerBrush "Solid";
+_marker_3 = _this;
+_this = createMarker ["DZAI_Rad_Zone", [6326.66, 14060.1, 0.00149536]];
+_this setMarkerType "Empty";
+_this setMarkerBrush "Solid";
+_marker_4 = _this;

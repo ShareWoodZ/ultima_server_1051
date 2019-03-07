@@ -1,0 +1,1087 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+	<Project name="Ultima">
+		<Package name="Language">
+			<Container name="Welcom">
+				<Key ID="Ultima_WM_Welcom">
+					<Original>Welcom to server:</Original>
+					<English>Welcom to server:</English>
+					<Russian>Добро пожаловать на сервер:</Russian> 
+				</Key>
+				<Key ID="Ultima_WM_Admins">
+					<Original>Administration:</Original>
+					<English>Administration:</English>
+					<Russian>Администрация:</Russian> 
+				</Key>
+				<Key ID="Ultima_WM_VK">
+					<Original>VK group:</Original>
+					<English>VK group:</English>
+					<Russian>Группа вконтакте:</Russian> 
+				</Key>
+				<Key ID="Ultima_WM_Site">
+					<Original>Site:</Original>
+					<English>Site:</English>
+					<Russian>Адрес сайта:</Russian> 
+				</Key>				
+				<Key ID="Ultima_WM_HotKeys">
+					<Original>Hot Key:</Original>
+					<English>Hot Key:</English>
+					<Russian>Горячие клавиши:</Russian> 
+				</Key>
+				<Key ID="Ultima_WM_HotKeys1">
+					<Original>Friend nickname:</Original>
+					<English>Friend nickname:</English>
+					<Russian>Имена друзей:</Russian> 
+				</Key>
+				<Key ID="Ultima_WM_HotKeys2">
+					<Original>Craft:</Original>
+					<English>Craft:</English>
+					<Russian>Крафт:</Russian> 
+				</Key>
+				<Key ID="Ultima_WM_HotKeys3">
+					<Original>Alternative debug:</Original>
+					<English>Alternative debug:</English>
+					<Russian>Монитор игрока:</Russian> 
+				</Key>
+				<Key ID="Ultima_WM_HotKeys4">
+					<Original>Donat terminal:</Original>
+					<English>Donat terminal:</English>
+					<Russian>Донат:</Russian> 
+				</Key>
+				<Key ID="Ultima_WM_HotKeys5">
+					<Original>Mission terminal:</Original>
+					<English>Mission terminal:</English>
+					<Russian>Терминал заданий:</Russian>
+				</Key>
+				<Key ID="Ultima_WM_Expire">
+					<Original>The expiry dates of the protection of Bases:</Original>
+					<English>The expiry dates of the protection of Bases:</English>
+					<Russian>Сроки истечения защиты баз:</Russian> 
+				</Key>			 	
+			</Container>
+			<Container name="Map_Markers">
+				<Key ID="Ultima_TC_Stary">
+					<Original>Trader city - Stary</Original>
+					<English>Trader city - Stary</English>
+					<Russian>Торговый город - Старый</Russian> 
+				</Key>
+				<Key ID="Ultima_TC_Klen">
+					<Original>Trader city - Klen</Original>
+					<English>Trader city - Klen</English>
+					<Russian>Торговый город - Клен</Russian> 
+				</Key>
+				<Key ID="Ultima_TC_Bash">
+					<Original>Trader city - Bash</Original>
+					<English>Trader city - Bash</English>
+					<Russian>Торговый город - Баш</Russian> 
+				</Key>
+				<Key ID="Ultima_T_Wholesale_South">
+					<Original>Wholesale - South</Original>
+					<English>Wholesale - South</English>
+					<Russian>Оптовик - Южный</Russian> 
+				</Key>
+				<Key ID="Ultima_T_Wholesale_East">
+					<Original>Wholesale - East</Original>
+					<English>Wholesale - East</English>
+					<Russian>Оптовик - Восточный</Russian> 
+				</Key>
+				<Key ID="Ultima_T_BoatTrader_South">
+					<Original>Boat trader - South</Original>
+					<English>Boat trader - South</English>
+					<Russian>Лодочник - Южный</Russian> 
+				</Key>
+				<Key ID="Ultima_T_BoatTrader_East">
+					<Original>Boat trader - East</Original>
+					<English>Boat trader - East</English>
+					<Russian>Лодочник - Восточный</Russian> 
+				</Key>
+				<Key ID="Ultima_T_Air">
+					<Original>Trader - Air</Original>
+					<English>Trader - Air</English>
+					<Russian>Торговец авиатехникой</Russian> 
+				</Key>
+				<Key ID="Ultima_T_Bandit">
+					<Original>Bandit camp</Original>
+					<English>Bandit camp</English>
+					<Russian>Лагерь бандитов</Russian> 
+				</Key>
+				<Key ID="Ultima_T_Hero">
+					<Original>Hero camp</Original>
+					<English>Hero camp</English>
+					<Russian>Лагерь героев</Russian> 
+				</Key>
+				<Key ID="Ultima_T_Bike">
+					<Original>Trader Bike</Original>
+					<English>Trader Bike</English>
+					<Russian>Торговец вело-мото</Russian> 
+				</Key>
+				<Key ID="Ultima_Radiation_Zone">
+					<Original>Radiation area</Original>
+					<English>Radiation area</English>
+					<Russian>Радиационная зона</Russian> 
+				</Key>
+				<Key ID="Ultima_Aircraft_carrier">
+					<Original>Aircraft carrier</Original>
+					<English>Aircraft carrier</English>
+					<Russian>Авианосец</Russian> 
+				</Key>
+				<Key ID="Ultima_T_Miner">
+					<Original>Miner</Original>
+					<English>Miner</English>
+					<Russian>Рудокоп</Russian> 
+				</Key>									
+			</Container>
+			<Container name="Map_Zone_Messages">
+				<Key ID="Ultima_Enter_TC_Stary">
+					<Original>You enter trade city - Stary</Original>
+					<English>You enter trade city - Stary</English>
+					<Russian>Вы входите в торговый город - Старый</Russian> 
+				</Key>
+				<Key ID="Ultima_Enter_TC_Bash">
+					<Original>You enter trade city - Bash</Original>
+					<English>You enter trade city - Bash</English>
+					<Russian>Вы входите в торговый город - Баш</Russian> 
+				</Key>
+				<Key ID="Ultima_Enter_TC_Klen">
+					<Original>You enter trade city - Klen</Original>
+					<English>You enter trade city - Klen</English>
+					<Russian>Вы входите в торговый город - Клен</Russian> 
+				</Key>
+				<Key ID="Ultima_Enter_Radioactive_Zone">
+					<Original>You enter radioactive zone</Original>
+					<English>You enter radioactive zone</English>
+					<Russian>Вы входите на радиоактивную территорию</Russian> 
+				</Key>
+				<Key ID="Ultima_In_Radioactive_Zone">
+					<Original>You are in radioactive zone!</Original>
+					<English>You are in radioactive zone!</English>
+					<Russian>Вы находитесь в радиоактивной зоне!</Russian> 
+				</Key>					
+				<Key ID="Ultima_Leave_TC_Stary">
+					<Original>You leave trade city - Stary</Original>
+					<English>You leave trade city - Stary</English>
+					<Russian>Вы покидаете торговый город - Старый</Russian> 
+				</Key>
+				<Key ID="Ultima_Leave_TC_Bash">
+					<Original>You leave trade city - Bash</Original>
+					<English>You leave trade city - Bash</English>
+					<Russian>Вы покидаете торговый город - Баш</Russian> 
+				</Key>
+				<Key ID="Ultima_Leave_TC_Klen">
+					<Original>You leave trade city - Klen</Original>
+					<English>You leave trade city - Klen</English>
+					<Russian>Вы покидаете торговый город - Клен</Russian> 
+				</Key>
+				<Key ID="Ultima_Leave_Radioactive_Zone">
+					<Original>You leave radioactive zone</Original>
+					<English>You leave radioactive zone</English>
+					<Russian>Вы покидаете радиоактивную территорию</Russian> 
+				</Key>
+			</Container>
+			<Container name="Traders_Partitions">
+				<Key ID="Ultima_TP_Ammo_Assault">
+					<Original>To assaults</Original>
+					<English>To assaults</English>
+					<Russian>К штурмовым</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Ammo_Light_Machinegan">
+					<Original>To light machinegans</Original>
+					<English>To light machinegans</English>
+					<Russian>К лег. пулеметам</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Ammo_Pistols">
+					<Original>To pistols</Original>
+					<English>To pistols</English>
+					<Russian>К пистолетам</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Ammo_Rifles">
+					<Original>To rifles</Original>
+					<English>To rifles</English>
+					<Russian>К дробовикам и винтовкам</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Ammo_Snipers">
+					<Original>To sniper-rifles</Original>
+					<English>To sniper-rifles</English>
+					<Russian>К снайперским</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Ammo_Automatic">
+					<Original>To automatics</Original>
+					<English>To automatics</English>
+					<Russian>К автоматам</Russian> 
+				</Key>
+				
+				<Key ID="Ultima_TP_Weapon_Assault">
+					<Original>Assault</Original>
+					<English>Assault</English>
+					<Russian>Штурмовое</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Weapon_Light_Machinegan">
+					<Original>Light machinegan</Original>
+					<English>Light machinegan</English>
+					<Russian>Лег. пулеметы</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Weapon_Machinegan">
+					<Original>Machinegan</Original>
+					<English>Machinegan</English>
+					<Russian>Пулеметы</Russian> 
+				</Key>				
+				<Key ID="Ultima_TP_Weapon_Pistols">
+					<Original>Pistols</Original>
+					<English>Pistols</English>
+					<Russian>Пистолеты</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Weapon_Rifles">
+					<Original>Rifles</Original>
+					<English>Rifles</English>
+					<Russian>Дробовики и винтовки</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Weapon_Snipers">
+					<Original>Sniper-rifles</Original>
+					<English>Sniper-rifles</English>
+					<Russian>Снайперское</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Weapon_Automatic">
+					<Original>Automatics</Original>
+					<English>Automatics</English>
+					<Russian>Автоматическое</Russian> 
+				</Key>
+
+				<Key ID="Ultima_TP_Ammuniction">
+					<Original>Ammunitions</Original>
+					<English>Ammunitions</English>
+					<Russian>Аммуниция</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Uniform">
+					<Original>Uniforms</Original>
+					<English>Uniforms</English>
+					<Russian>Форма</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Military_Heli">
+					<Original>Military helis</Original>
+					<English>Military helis</English>
+					<Russian>Военные вертолеты</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Army_Auto">
+					<Original>Army cars</Original>
+					<English>Army cars</English>
+					<Russian>Армейские авто</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Military_Auto">
+					<Original>Military cars</Original>
+					<English>Military cars</English>
+					<Russian>Военные авто</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Weapon">
+					<Original>Weapons</Original>
+					<English>Weapons</English>
+					<Russian>Оружие</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Tech_Ammo">
+					<Original>Technique ammo</Original>
+					<English>Technique ammo</English>
+					<Russian>Аммуниция техники</Russian> 
+				</Key>				
+				
+				<Key ID="Ultima_TP_Backpacks">
+					<Original>Backpacks</Original>
+					<English>Backpacks</English>
+					<Russian>Рюкзаки</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Wear">
+					<Original>Wears</Original>
+					<English>Wears</English>
+					<Russian>Одежда</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Food">
+					<Original>Food</Original>
+					<English>Food</English>
+					<Russian>Жареное мясо</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Drinks">
+					<Original>Drink</Original>
+					<English>Drink</English>
+					<Russian>Напитки</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Canned">
+					<Original>Canned</Original>
+					<English>Canned</English>
+					<Russian>Консервы</Russian> 
+				</Key>					
+
+				<Key ID="Ultima_TP_Build_Goods">
+					<Original>Build goods</Original>
+					<English>Build goods</English>
+					<Russian>Стройтовары</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Tools">
+					<Original>Tools</Original>
+					<English>Tools</English>
+					<Russian>Инструменты</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Parts">
+					<Original>Parts</Original>
+					<English>Parts</English>
+					<Russian>Автозапчасти</Russian> 
+				</Key>	
+
+				<Key ID="Ultima_TP_Aircraft">
+					<Original>Aircrafts</Original>
+					<English>Aircrafts</English>
+					<Russian>Самолеты</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Heli">
+					<Original>Helis</Original>
+					<English>Helis</English>
+					<Russian>Вертолеты</Russian> 
+				</Key>
+
+				<Key ID="Ultima_TP_Bikes">
+					<Original>Bikes</Original>
+					<English>Bikes</English>
+					<Russian>Байки и Квадро</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Bus">
+					<Original>Bus and Micro</Original>
+					<English>Bus and Micro</English>
+					<Russian>Автобусы и микро</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Cargo">
+					<Original>Cargos</Original>
+					<English>Cargos</English>
+					<Russian>Грузовики</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Fule_Truck">
+					<Original>Fuel trucks</Original>
+					<English>Fuel tracks</English>
+					<Russian>Бензовозы</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Military_No_Weapons">
+					<Original>Military no weapons</Original>
+					<English>Military no weapons</English>
+					<Russian>Военные разоруженные</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Freighter">
+					<Original>Freighters</Original>
+					<English>Freighters</English>
+					<Russian>Грузовозы</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Used">
+					<Original>Used</Original>
+					<English>Used</English>
+					<Russian>Подержанные</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Transport">
+					<Original>Transport</Original>
+					<English>Transport</English>
+					<Russian>Транспорт</Russian> 
+				</Key>
+				
+				<Key ID="Ultima_TP_Empty_Bottle">
+					<Original>Whiski empty bottle</Original>
+					<English>>Whiski empty bottle</English>
+					<Russian>Пустая бутылка виски</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Tin">
+					<Original>Tin bar</Original>
+					<English>Tin bar</English>
+					<Russian>Олово</Russian> 
+				</Key>	
+				
+				<Key ID="Ultima_TP_Chemical">
+					<Original>Chemical light</Original>
+					<English>Chemical light</English>
+					<Russian>Хим.свет/Шашки</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Medicine">
+					<Original>Medicine</Original>
+					<English>Medicine</English>
+					<Russian>Медикаменты</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Smoke_Grenade">
+					<Original>Smoke grenades</Original>
+					<English>Smoke grenades</English>
+					<Russian>Дымовые гранаты</Russian> 
+				</Key>
+				
+				<Key ID="Ultima_TP_BM_Ammo">
+					<Original>Black market ammo</Original>
+					<English>Black market ammo</English>
+					<Russian>ЧР патроны</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_BM_Weapon">
+					<Original>Black market weapon</Original>
+					<English>Black market weapon</English>
+					<Russian>ЧР оружие</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Explosive">
+					<Original>Explosive</Original>
+					<English>Explosive</English>
+					<Russian>Взрывчатка</Russian> 
+				</Key>				
+
+				<Key ID="Ultima_TP_Zombie_Parts">
+					<Original>Zombie parts</Original>
+					<English>Zombie parts</English>
+					<Russian>Часть зомби</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Bio_Meat">
+					<Original>Bio-meat</Original>
+					<English>Bio-meat</English>
+					<Russian>Био-мясо</Russian> 
+				</Key>
+				
+				<Key ID="Ultima_TP_Wholesale">
+					<Original>Wholesale</Original>
+					<English>Wholesale</English>
+					<Russian>Товары оптом</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Constructions">
+					<Original>Constructions</Original>
+					<English>Constructions</English>
+					<Russian>Конструкции</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Concrete_Construction">
+					<Original>Concrete construction</Original>
+					<English>Concrete construction</English>
+					<Russian>Бетонные конструкции</Russian> 
+				</Key>
+				<Key ID="Ultima_TP_Wood_Construction">
+					<Original>Wood construction</Original>
+					<English>Wood construction</English>
+					<Russian>Деревянные конструкции</Russian> 
+				</Key>				
+
+				<Key ID="Ultima_TP_Boat_With_Weapons">
+					<Original>Boats with weapons</Original>
+					<English>Boats with weapons</English>
+					<Russian>Судна с вооружением</Russian> 
+				</Key>	
+				<Key ID="Ultima_TP_Boats">
+					<Original>Boats</Original>
+					<English>Boats</English>
+					<Russian>Судна</Russian> 
+				</Key>					
+			</Container>
+			<Container name="Ultima_Trade_Messages">
+				<Key ID="Ultima_TM_Weapon_in_Hands">
+					<Original>For the sale of firearms, it should be in the hands of!</Original>
+					<English>For the sale of firearms, it should be in the hands of!</English>
+					<Russian>Для продажи оружия, оно должно быть в руках!</Russian> 
+				</Key>
+				<Key ID="Ultima_TM_Toolbelt">
+					<Original>Item of sale should be on your toolbelt!</Original>
+					<English>Item of sale should be on your toolbelt!</English>
+					<Russian>Предмет продажи, должен быть у вас на поясе!</Russian>
+				</Key>
+				<Key ID="Ultima_TM_Drop_Weapon">
+					<Original>Drop or sell your current weapon before buying a new!</Original>
+					<English>Drop or sell your current weapon before buying a new!</English>
+					<Russian>Выкиньте или продайте текущее оружие, перед покупкой нового!</Russian>
+				</Key>
+				<Key ID="Ultima_TM_Drop_Toolbelt">
+					<Original>Drop or sell the item from his belt, before buying a new!</Original>
+					<English>Drop or sell the item from his belt, before buying a new!</English>
+					<Russian>Выкиньте или продайте предмет с пояса, перед покупкой нового!</Russian>
+				</Key>
+				<Key ID="Ultima_TM_Drop_Backpack">
+					<Original>Drop or sell backpack, before buying a new!</Original>
+					<English>Drop or sell backpack, before buying a new!</English>
+					<Russian>Снимите рюкзак, перед покупкой другого!</Russian>
+				</Key>				
+			</Container>
+			<Container name="Ultima_Standart_Messages">
+				<Key ID="Ultima_Hours">
+					<Original>h</Original>
+					<English>h</English>
+					<Russian>ч</Russian>
+				</Key>
+				<Key ID="Ultima_Minutes">
+					<Original>m</Original>
+					<English>m</English>
+					<Russian>м</Russian>
+				</Key>				
+				<Key ID="Ultima_Cancel">
+					<Original>Cancel</Original>
+					<English>Cancel</English>
+					<Russian>Отменить</Russian>
+				</Key>
+				<Key ID="Ultima_Change">
+					<Original>Change</Original>
+					<English>Change</English>
+					<Russian>Обмен</Russian> 
+				</Key>
+				<Key ID="Ultima_To">
+					<Original>to</Original>
+					<English>to</English>
+					<Russian>на</Russian>
+				</Key>
+				<Key ID="Ultima_Unknown">
+					<Original>Unknown</Original>
+					<English>Unknown</English>
+					<Russian>Неизвестно</Russian>
+				</Key>
+				<Key ID="Ultima_Salvage">
+					<Original>Salvage</Original>
+					<English>Salvage</English>
+					<Russian>Снять</Russian>
+				</Key>
+				<Key ID="Ultima_Repair">
+					<Original>Repair</Original>
+					<English>Repair</English>
+					<Russian>Отремонтировать</Russian>
+				</Key>
+				<Key ID="Ultima_Yes">
+					<Original>Yes</Original>
+					<English>Yes</English>
+					<Russian>Да</Russian>
+				</Key>
+				<Key ID="Ultima_No">
+					<Original>No</Original>
+					<English>No</English>
+					<Russian>Нет</Russian>
+				</Key>				
+				<Key ID="Ultima_No_Action_On_Stairs">
+					<Original>You cannot perform this action while on the stairs!</Original>
+					<English>You cannot perform this action while on the stairs!</English>
+					<Russian>Вы не можете выполнить данное действие, находясь на лестнице!</Russian>
+				</Key>
+				<Key ID="Ultima_No_Action_In_Vehicles">
+					<Original>You cannot perform this action while in the technique!</Original>
+					<English>You cannot perform this action while in the technique!</English>
+					<Russian>Вы не можете выполнить данное действие, находясь в технике!</Russian>
+				</Key>
+				<Key ID="Ultima_No_Action_In_Battle">
+					<Original>You cannot perform this action in battle!</Original>
+					<English>You cannot perform this action in battle!</English>
+					<Russian>Вы не можете выполнять данное действие в бою!</Russian>
+				</Key>
+				<Key ID="Ultima_No_Action_If_Other_Player">
+					<Original>You cannot perform this action while near another player!</Original>
+					<English>You cannot perform this action while near another player!</English>
+					<Russian>Вы не можете выполнять данное действие пока рядом другой игрок!</Russian>
+				</Key>				
+				<Key ID="Ultima_Action_Complete">
+					<Original>You have completed the action!</Original>
+					<English>You have completed the action!</English>
+					<Russian>Вы закончили действие!</Russian>
+				</Key>
+				<Key ID="Ultima_Action_Interrupted">
+					<Original>You have interrupted the current action!</Original>
+					<English>You have interrupted the current action!</English>
+					<Russian>Вы прервали текущее действие!</Russian>
+				</Key>				
+				<Key ID="Ultima_No_Space_In_Inventory">
+					<Original>There is not enough space in your inventory!</Original>
+					<English>There is not enough space in your inventory!</English>
+					<Russian>У Вас недостаточно места в инвентаре!</Russian>
+				</Key>				
+				<Key ID="Ultima_Body_Empty">
+					<Original>Body ravaged!</Original>
+					<English>Body ravaged!</English>
+					<Russian>Тело опустошено!</Russian>
+				</Key>
+				<Key ID="Ultima_Reuse">
+					<Original>For reuse, wait %1</Original>
+					<English>For reuse, wait %1</English>
+					<Russian>Для повторного использования, подождите %1!</Russian>
+				</Key>
+				<Key ID="Ultima_Gather_Z">
+					<Original>You butchered zombies</Original>
+					<English>You butchered zombies</English>
+					<Russian>Вы разделали зомби</Russian>
+				</Key>
+				<Key ID="Ultima_Price">
+					<Original>Price: %1</Original>
+					<English>Price: %1</English>
+					<Russian>Стоимость: %1!</Russian>
+				</Key>
+			</Container>
+			<Container name="Ultima_Anti_Cheat">
+				<Key ID="Ultima_Exit_Near_Storage">
+					<Original>[AntiDupe]: You can't exit near storage!</Original>
+					<English>[AntiDupe]: You can't exit near storage!</English>
+					<Russian>[АнтиДюп]: Вы не можете выйти возле хранилища!</Russian>
+				</Key>	
+				<Key ID="Ultima_Open_Inventory_Near_Players">
+					<Original>[AntiThief]: You can't open your inventory, when near another player!</Original>
+					<English>[AntiThief]: You can't open your inventory, when near another player!</English>
+					<Russian>[АнтиВор]: Вы не можете открывать свой инвентарь, когда рядом другой игрок!</Russian>
+				</Key>		
+			</Container>
+			<Container name="Ultima_Bases">
+				<Key ID="Ultima_Base_Under_Protection">
+					<Original>You are under protection!</Original>
+					<English>You are under protection!</English>
+					<Russian>Вы находитесь под защитой базы!</Russian>
+				</Key>
+				<Key ID="Ultima_Base_15_seconds">
+					<Original>You have 15 seconds to leave private property!</Original>
+					<English>You have 15 seconds to leave private property!</English>
+					<Russian>У Вас 15 секунд, чтобы покинуть частную территорию!</Russian>
+				</Key>
+				<Key ID="Ultima_Base_Leave">
+					<Original>You left private property!</Original>
+					<English>You left private property!</English>
+					<Russian>Вы покинули частную территорию!</Russian>
+				</Key>				
+			</Container>
+			<Container name="Ultima_Blood_Bag">
+				<Key ID="Ultima_Blood_Bag_Added">
+					<Original>Blood bag added to your inventory!</Original>
+					<English>Blood bag added to your inventory!</English>
+					<Russian>Пакет с кровью добавлен в инвентарь!</Russian>
+				</Key>
+				<Key ID="Ultima_Blood_Bag_Ingfected">
+					<Original>You received a blood transfusion from an infected package!</Original>
+					<English>You received a blood transfusion from an infected package!</English>
+					<Russian>Вы перелили кровь из инфицированного пакета!</Russian>
+				</Key>				
+			</Container>
+			<Container name="Ultima_Bax">
+				<Key ID="Ultima_Bax_Body">
+					<Original>You found %1 bucks!</Original>
+					<English>You found %1 bucks!</English>
+					<Russian>Вы нашли %1 баксов!</Russian>
+				</Key>
+			</Container>
+			<Container name="Ultima_Safe_Zones">
+				<Key ID="Ultima_Enter_Safe_Zone">
+					<Original>You are in a safe zone!</Original>
+					<English>You are in a safe zone!</English>
+					<Russian>Вы в безопасной зоне!</Russian>
+				</Key>
+				<Key ID="Ultima_Leave_Safe_Zone">
+					<Original>You are outside the safe zone!</Original>
+					<English>You are outside the safe zone!</English>
+					<Russian>Вы находитесь за пределами безопасной зоны!</Russian>
+				</Key>				
+			</Container>
+			<Container name="Ultima_Items">
+				<Key ID="Ultima_Briefcase100ozGold">
+					<Original>Briefcase 100oz gold</Original>
+					<English>Briefcase 100oz gold</English>
+					<Russian>кейсов с золотом</Russian>
+				</Key>
+				<Key ID="Ultima_Ruby">
+					<Original>Ruby</Original>
+					<English>Ruby</English>
+					<Russian>Рубин</Russian>
+				</Key>
+				<Key ID="Ultima_Obsidian">
+					<Original>Obsidian</Original>
+					<English>Obsidian</English>
+					<Russian>Обсидиан</Russian>
+				</Key>				
+				<Key ID="Ultima_Topaz">
+					<Original>Topaz</Original>
+					<English>Topaz</English>
+					<Russian>Топаз</Russian>
+				</Key>
+				<Key ID="Ultima_Sapfire">
+					<Original>Sapfire</Original>
+					<English>Sapfire</English>
+					<Russian>Сапфир</Russian>
+				</Key>
+				<Key ID="Ultima_Ametiste">
+					<Original>Ametiste</Original>
+					<English>Ametiste</English>
+					<Russian>Аметист</Russian>
+				</Key>
+				<Key ID="Ultima_Emerald">
+					<Original>Emerald</Original>
+					<English>Emerald</English>
+					<Russian>Эмеральд</Russian>
+				</Key>
+				<Key ID="Ultima_Citrine">
+					<Original>Citrine</Original>
+					<English>Citrine</English>
+					<Russian>Цитрин</Russian>
+				</Key>				
+			</Container>
+			<Container name="Ultima_Trade_Terminal">
+				<Key ID="Ultima_TT_Dont_Open_Dialog">
+					<Original>There is no opportunity to open a dialogue!</Original>
+					<English>There is no opportunity to open a dialogue!</English>
+					<Russian>Нет возможности открыть диалог!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Bank_Transfer">
+					<Original>Bank transfer</Original>
+					<English>Bank transfer</English>
+					<Russian>Банковский перевод</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Bank_ID">
+					<Original>Player ID:</Original>
+					<English>Player ID:</English>
+					<Russian>ID получателя:</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Bank_Summa">
+					<Original>Summa:</Original>
+					<English>Summa:</English>
+					<Russian>Сумма:</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Bank_Send">
+					<Original>Send</Original>
+					<English>Send</English>
+					<Russian>Отправить</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Bank_Cash_To_Bank">
+					<Original>Cash to bank</Original>
+					<English>Cash to bank</English>
+					<Russian>Положить в банк</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Bank_Remove_From_Store">
+					<Original>Deposite to cash</Original>
+					<English>Deposite to cash</English>
+					<Russian>Снять с хранилища</Russian>
+				</Key>
+				<Key ID="Ultima_TT">
+					<Original>Trade terminal</Original>
+					<English>Trade terminal</English>
+					<Russian>Торговый терминал</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Items_Shall">
+					<Original>Items shall</Original>
+					<English>Items shall</English>
+					<Russian>Предметы торгов</Russian>
+				</Key>
+				<Key ID="Ultima_TT_My_Items">
+					<Original>My items</Original>
+					<English>My items</English>
+					<Russian>Мои предметы</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Add_Item">
+					<Original>Add item</Original>
+					<English>Add item</English>
+					<Russian>Добавить предмет</Russian>
+				</Key>
+				<Key ID="Ultima_TT_For_Sale">
+					<Original>Sale</Original>
+					<English>Sale</English>
+					<Russian>На продажу</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Price">
+					<Original>Price: </Original>
+					<English>Price: </English>
+					<Russian>Цена: </Russian>
+				</Key>
+				<Key ID="Ultima_TT_Buy">
+					<Original>Buy</Original>
+					<English>Buy</English>
+					<Russian>Купить</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Trader">
+					<Original>Trader: </Original>
+					<English>Trader: </English>
+					<Russian>Продавец: </Russian>
+				</Key>
+				<Key ID="Ultima_TT_Drop">
+					<Original>Remove</Original>
+					<English>Remove</English>
+					<Russian>Снять с продажи</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Food_And_Other">
+					<Original>Food and other</Original>
+					<English>Food and other</English>
+					<Russian>Пища и инвентарь</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Tech">
+					<Original>Technique</Original>
+					<English>Technique</English>
+					<Russian>Техника</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Land">
+					<Original>Land</Original>
+					<English>Land</English>
+					<Russian>Наземная техника</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Air">
+					<Original>Air</Original>
+					<English>Air</English>
+					<Russian>Авиация</Russian>
+				</Key>	
+				<Key ID="Ultima_TT_Sea">
+					<Original>Sea</Original>
+					<English>Sea</English>
+					<Russian>Флот</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Wood">
+					<Original>Wood</Original>
+					<English>Wood</English>
+					<Russian>Деревянное</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Beton">
+					<Original>Concrete</Original>
+					<English>Concrete</English>
+					<Russian>Железо-бетонные</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Materials">
+					<Original>Materials</Original>
+					<English>Materials</English>
+					<Russian>Материалы</Russian>
+				</Key>					
+				<Key ID="Ultima_TT_Constructions">
+					<Original>Constructions</Original>
+					<English>Constructions</English>
+					<Russian>Конструкции</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Heli_With_Weapons">
+					<Original>Heli with weapons</Original>
+					<English>Heli with weapons</English>
+					<Russian>Вооруженные вертолеты</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Bikes">
+					<Original>Bike</Original>
+					<English>Bike</English>
+					<Russian>Байки и квадро</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Passenger">
+					<Original>Passenger</Original>
+					<English>Passenger</English>
+					<Russian>Легковые</Russian>
+				</Key>	
+				<Key ID="Ultima_TT_Offroad">
+					<Original>Offroad</Original>
+					<English>Offroad</English>
+					<Russian>Внедорожники</Russian>
+				</Key>	
+				<Key ID="Ultima_TT_Bus">
+					<Original>Bus and cargo</Original>
+					<English>Bus and cargo</English>
+					<Russian>Грузовики и автобусы</Russian>
+				</Key>	
+				<Key ID="Ultima_TT_Military_No_Weapons">
+					<Original>Military without weapons</Original>
+					<English>Military without weapons</English>
+					<Russian>Военные разоруженные</Russian>
+				</Key>	
+				<Key ID="Ultima_TT_Military_With_Weapons">
+					<Original>Military with weapons</Original>
+					<English>Military with weapons</English>
+					<Russian>Военные с вооружением</Russian>
+				</Key>	
+				<Key ID="Ultima_TT_With_Weapons">
+					<Original>With weapons</Original>
+					<English>With weapons</English>
+					<Russian>Вооруженные</Russian>
+				</Key>	
+				<Key ID="Ultima_TT_Without_Weapons">
+					<Original>Without weapons</Original>
+					<English>Without weapons</English>
+					<Russian>Разоруженные</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Exchange_Complite">
+					<Original>Exchange complete!</Original>
+					<English>Exchange complete!</English>
+					<Russian>Обмен завершен!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Need_Gold_To_Exchange">
+					<Original>You have not enough gold to exchange!</Original>
+					<English>You have not enough gold to exchange!</English>
+					<Russian>У Вас недостаточно золота для обмена!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_No_ID_Transfer_Reject">
+					<Original>Do not specify the ID of the recipient! The transfer is rejected!</Original>
+					<English>Do not specify the ID of the recipient! The transfer is rejected!</English>
+					<Russian>Не указан ID получателя! Перевод отклонен!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_No_Summa_Transfer_Reject">
+					<Original>Not correctly specified transfer amount! The transfer is rejected!</Original>
+					<English>Not correctly specified transfer amount! The transfer is rejected!</English>
+					<Russian>Не правильно указана сумма перевода! Перевод отклонен!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_No_Enough_Money_Transfer_Reject">
+					<Original>Not enough money! The transfer is rejected!</Original>
+					<English>Not enough money! The transfer is rejected!</English>
+					<Russian>Не хватает средств! Перевод отклонен!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_No_Find_Vehicle_Or_Vehicle_Damage">
+					<Original>Technique for sale is not found, or it is damaged more than 5%!</Original>
+					<English>Technique for sale is not found, or it is damaged more than 5%!</English>
+					<Russian>Техника на продажу не найдена, или ее повреждения больше 5%!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_No_Find_Vehicle_Near">
+					<Original>Not found selected technique near player!</Original>
+					<English>Not found selected technique near player!</English>
+					<Russian>Вблизи нет выбранной техники!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Big_Or_Small_Price">
+					<Original>The price tag may not be less than zero, or greater than 999999!</Original>
+					<English>The price tag may not be less than zero, or greater than 999999!</English>
+					<Russian>Ценник не может быть меньше нуля, или больше 999999!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Not_Baxs_To_Send_Auction_Item">
+					<Original>Not enough 200 bucks for placing an item for auction!</Original>
+					<English>Not enough 200 bucks for placing an item for auction!</English>
+					<Russian>Не хватает 200 баксов, для выставления предмета на торги!</Russian>
+				</Key>
+				<Key ID="Ultima_TT_Not_Enough_Cash">
+					<Original>Not enough cash!</Original>
+					<English>Not enough cash!</English>
+					<Russian>Не хватает наличных средств!</Russian>
+				</Key>					
+			</Container>
+			<Container name="Ultima_Skills">
+				<Key ID="Ultima_Skill_Create_Bike">
+					<Original>Create bike</Original>
+					<English>Create bike</English>
+					<Russian>Создать велосипед(инструменты)</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Stop_The_Bleeding">
+					<Original>Stop the bleeding</Original>
+					<English>Stop the bleeding</English>
+					<Russian>Остановить кровотечение</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Zombie_Shield">
+					<Original>Zombie shiels</Original>
+					<English>Zombie shield</English>
+					<Russian>Установка щита от зомби</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Set_A_Bone">
+					<Original>To set a bone</Original>
+					<English>To set a bone</English>
+					<Russian>Вправить кость</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Suicide">
+					<Original>Suicide</Original>
+					<English>Suicide</English>
+					<Russian>Суицид(отмена при движении)</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Exit">
+					<Original>Exit</Original>
+					<English>Exit</English>
+					<Russian>Выход</Russian>
+				</Key>
+				<Key ID="Ultima_Skills">
+					<Original>Skills</Original>
+					<English>Skills</English>
+					<Russian>Навыки</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Bleeding_Stopped">
+					<Original>The bleeding stopped.</Original>
+					<English>The bleeding stopped.</English>
+					<Russian>Кровотечение остановлено.</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Fracture_Cured">
+					<Original>Fracture of the cured.</Original>
+					<English>Fracture of the cured.</English>
+					<Russian>Кости вправлены.</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Need_Professional">
+					<Original>Skill is available when connected to the service Professional.</Original>
+					<English>Skill is available when connected to the service Professional.</English>
+					<Russian>Навык доступен, при подключении услуги Профессионал.</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Need_Part">
+					<Original>Need %1</Original>
+					<English>Need %1</English>
+					<Russian>Нехватает %1</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Need_Count_Part">
+					<Original>Need %1, %2</Original>
+					<English>Need %1, %2</English>
+					<Russian>Нехватает %1, %2</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Device_Deactivated">
+					<Original>The device is deactivated!</Original>
+					<English>The device is deactivated!</English>
+					<Russian>Устройство деактивировано!</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Device_Activated">
+					<Original>The device is activated!</Original>
+					<English>The device is activated!</English>
+					<Russian>Устройство активировано!</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Suicide_1">
+					<Original>You thought long and about his worthless life...</Original>
+					<English>You thought long and about his worthless life...</English>
+					<Russian>Ты не надолго задумался, о своей никчемной жизни...</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Suicide_2">
+					<Original>The cold barrel touched his temple...</Original>
+					<English>The cold barrel touched his temple...</English>
+					<Russian>Холодный ствол коснулся виска...</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Suicide_3">
+					<Original>The air smelled of carrion...</Original>
+					<English>The air smelled of carrion....</English>
+					<Russian>В воздухе запахло падалью...</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Suicide_4">
+					<Original>Damn it! Burn in hell!</Original>
+					<English>Damn it! Burn in hell!</English>
+					<Russian>Будь всё проклято! Горите в аду!</Russian>
+				</Key>
+				<Key ID="Ultima_Skill_Suicide_5">
+					<Original>Fucking! What was it???</Original>
+					<English>Fucking! What was it???</English>
+					<Russian>Млять! Что это было???</Russian>
+				</Key>				
+			</Container>
+			<Container name="Ultima_Standart_Debug">
+				<Key ID="USD_Blood">
+					<Original>Blood: </Original>
+					<English>Blood: </English>
+					<Russian>Кровь: </Russian>
+				</Key>
+				<Key ID="USD_Temp">
+					<Original>Temp.: </Original>
+					<English>Temp.: </English>
+					<Russian>Темп.: </Russian>
+				</Key>
+				<Key ID="USD_Infection">
+					<Original>Infection: </Original>
+					<English>Infection: </English>
+					<Russian>Инфекция:</Russian>
+				</Key>
+				<Key ID="USD_Reputation">
+					<Original>Reputation: </Original>
+					<English>Reputation: </English>
+					<Russian>Репутация: </Russian>
+				</Key>
+				<Key ID="USD_Zombie">
+					<Original>Zombie: </Original>
+					<English>Zpmbie: </English>
+					<Russian>Зомби: </Russian>
+				</Key>
+				<Key ID="USD_Civil">
+					<Original>Civil: </Original>
+					<English>Civil: </English>
+					<Russian>Мирных: </Russian>
+				</Key>
+				<Key ID="USD_Bandits">
+					<Original>Bandits: </Original>
+					<English>Bandits: </English>
+					<Russian>Бандитов: </Russian>
+				</Key>
+				<Key ID="USD_Cash">
+					<Original>Cash: </Original>
+					<English>Cash: </English>
+					<Russian>Наличные: </Russian>
+				</Key>
+				<Key ID="USD_Deposite">
+					<Original>Deposite: </Original>
+					<English>Deposite: </English>
+					<Russian>Депозит: </Russian>
+				</Key>
+				<Key ID="USD_Bank">
+					<Original>Bank: </Original>
+					<English>Bank: </English>
+					<Russian>Банк: </Russian>
+				</Key>
+				<Key ID="USD_Location">
+					<Original>Location: </Original>
+					<English>Location: </English>
+					<Russian>Локация: </Russian>
+				</Key>
+				<Key ID="USD_Uptime">
+					<Original>Uptime: </Original>
+					<English>Uptime: </English>
+					<Russian>Время: </Russian>
+				</Key>
+				<Key ID="USD_FPS">
+					<Original>FPS: </Original>
+					<English>FPS: </English>
+					<Russian>ФПС: </Russian>
+				</Key>
+			</Container>				
+		</Package>
+	</Project>
